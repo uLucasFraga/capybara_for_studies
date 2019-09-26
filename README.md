@@ -42,7 +42,7 @@ Gives you a simple, clean and semantic DSL for describing your site using the Pa
 - [Geckodriver](https://github.com/mozilla/geckodriver/releases)
 
 ## Configuration
-> iOS: 
+> Mac: 
 
 Update ruby version (if required)
 - [Ruby](https://www.engineyard.com/blog/how-to-install-ruby-on-a-mac-with-chruby-rbenv-or-rvm)
