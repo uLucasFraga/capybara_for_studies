@@ -1,0 +1,9 @@
+##YAML Template
+---
+default: -p html_report -p chrome -t 'not @notImplemented'
+regression: -p html_report -p chrome -t '@regression not @notImplemented'
+html_report: --format progress --format html --out=features_report.html
+chrome: BROWSER=chrome
+firefox: BROWSER=firefox
+chrome_headless: BROWSER=chrome_headless
+remote: BROWSER=remote
