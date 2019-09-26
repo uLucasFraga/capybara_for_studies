@@ -26,8 +26,8 @@ Gives you a simple, clean and semantic DSL for describing your site using the Pa
 - [Configuration](#configuration)
 - [Installation](#installation)
 - [Features](#features)
-- [How to run tests](#how_to_run_tests)
-- [Run tests](#run_tests)
+- [How to run tests](#how-to-run-tests)
+- [Run tests](#run-tests)
 - [Support](#support)
 
 ---
@@ -44,37 +44,37 @@ Gives you a simple, clean and semantic DSL for describing your site using the Pa
 ## Configuration
 > iOS: 
 
-###Update ruby version (if required)
+Update ruby version (if required)
 - [Ruby](https://www.engineyard.com/blog/how-to-install-ruby-on-a-mac-with-chruby-rbenv-or-rvm)
-###Install homebrew
+Install homebrew
 - [Homebrew](https://brew.sh/)
-###Install chromedriver
+Install chromedriver
 - [Chromedriver](https://www.kenst.com/2015/03/installing-chromedriver-on-mac-osx/)
-###Install geckodriver
+Install geckodriver
 - [Geckodriver](https://www.kenst.com/2016/12/installing-marionette-firefoxdriver-on-mac-osx/)
 
 > Windows:
 
-###Install chocolatey
+Install chocolatey
 - [Chocolatey](https://chocolatey.org/)
-###Install ruby
+Install ruby
 - [Ruby via chocolatey](https://chocolatey.org/packages?q=ruby)
-###Install devkit
+Install devkit
 - [DevKit via chocolatey](https://chocolatey.org/packages?q=DevKit)
-###Install chromedriver
+Install chromedriver
 - [Chromedriver via chocolatey](https://chocolatey.org/packages/selenium-chrome-driver)
-###Install geckodriver
+Install geckodriver
 - [Geckodriver via chocolatey](https://chocolatey.org/packages/selenium-gecko-driver)
 
 > Ubuntu:
 
-###Install rbenv
+Install rbenv
 - [Rbenv](https://makandracards.com/makandra/28149-installing-rbenv-on-ubuntu)
-###Install ruby
+Install ruby
 - [Ruby](https://linuxize.com/post/how-to-install-ruby-on-ubuntu-18-04/#installing-ruby-using-rbenv)
-###Install chromedriver
+Install chromedriver
 - [Chromedriver via ubuntu](https://tecadmin.net/setup-selenium-chromedriver-on-ubuntu/)
-###Install geckodriver
+Install geckodriver
 - [Geckodriver via ubuntu](https://askubuntu.com/questions/870530/how-to-install-geckodriver-in-ubuntu)
 
 
