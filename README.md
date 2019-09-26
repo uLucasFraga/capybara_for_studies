@@ -4,16 +4,16 @@
 
 Repository with examples of automation using capybara + cucumber + siteprims + rspec
 
-> [Capybara](https://github.com/teamcapybara/capybara)
+> [Capybara](https://github.com/teamcapybara/capybara):
 Helps you test web applications by simulating how a real user would interact with your app. It is agnostic about the driver running your tests and comes with Rack::Test and Selenium support built in. WebKit is supported through an external gem.
 
-> [Cucumber](https://github.com/cucumber/cucumber)
+> [Cucumber](https://github.com/cucumber/cucumber):
 Is a tool that supports Behaviour-Driven Development (BDD) - a software development process that aims to enhance software quality and reduce maintenance costs.
 
-> [RSpec](https://github.com/rspec)
+> [RSpec](https://github.com/rspec):
 Tests are not just scripts that verify your application code. They’re also specifications (or specs, for short): detailed explanations of how the application is supposed to behave, expressed in plain English.
 
-> [SitePrism](https://github.com/site-prism/site_prism)
+> [SitePrism](https://github.com/site-prism/site_prism):
 Gives you a simple, clean and semantic DSL for describing your site using the Page Object Model pattern, for use with Capybara in automated acceptance testing.
 
 ---
