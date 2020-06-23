@@ -1,4 +1,4 @@
-﻿# CAPYBARA-RUBY-FOR-BEGINNERS
+﻿# CAPYBARA-RUBY-FOR-STUDIES
 
 ### SUMMARY
 
@@ -71,7 +71,7 @@ Install (if required)
 ## Installation
 
 > Clone
-- Clone this repo to your local machine using `https://github.com/uLucasFraga/capybara_for_beginners.git`
+- Clone this repo to your local machine using `https://github.com/uLucasFraga/capybara_for_studies.git`
 
 - Install all dependencies (Gemfile)
 `bundle install`
@@ -105,7 +105,7 @@ Feature: Add or remove a new product to cart
 
 > create and configure file *.env*
 
-- Create file `.evn` in `/capybara_ruby_for_beginners`
+- Create file `.evn` in `/capybara_ruby_for_studies`
 - Configure file `.env` with:
 
 > example:
